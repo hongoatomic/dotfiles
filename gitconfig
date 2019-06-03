@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = cd ~/code/$GITHUB_USERNAME/dotfiles
-	name = m.sol.escobar@gmail.com
+	email = m.sol.escobar@gmail.com
+	name = Soledad Escobar
